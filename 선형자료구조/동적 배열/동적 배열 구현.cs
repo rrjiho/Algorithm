@@ -1,4 +1,4 @@
-class NewList<T>
+class MyList<T>
 {
     const int DEFAULT_SIZE = 1;
     T[] _data = new T[DEFAULT_SIZE];
