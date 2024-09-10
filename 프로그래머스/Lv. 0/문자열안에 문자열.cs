@@ -22,9 +22,9 @@ public class Solution {
           }
           if (found)
           다 맞으면 1
-              return 1;        
+              answer = 1;        
       }
-      return 2;*/
+      answer =2; */
   }
         return answer;
     }
