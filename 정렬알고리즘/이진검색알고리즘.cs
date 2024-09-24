@@ -19,7 +19,7 @@ class Program
         return -1;
     }
   // 양 끝과 중간을 정하고 중간을 기준으로 큰 곳이면 right를 당겨 작은 곳이면 left를 당겨
-  // 찾으면 결과 못 찾으면 끝
+  // 당기다가 left가 right를 넘어가면 못 찾는 수
 
     static void Main(string[] args)
     {
